@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title><%= title %></title>
+</head>
+<body>
+    <h1><%= title %></h1>
+    <form id="booking-form" method="POST" action="/bookings">
+        <label for="phone">Số điện thoại:</label>
+        <input type="text" id="phone" name="phone" required><br>
+
+        <label for="address">Địa chỉ đặt xe:</label>
+        <input type="text" id="address" name="address" required><br>
+
+        <label for="vip">Khách hàng VIP:</label>
+        <input type="checkbox" id="vip" name="vip"><br>
+
+        <input type="submit" value="Đặt Xe 1">
+    </form>
+</body>
+</html>
