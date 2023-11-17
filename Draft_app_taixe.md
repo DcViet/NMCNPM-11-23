@@ -1,3 +1,4 @@
+https://www.academia.edu/13467185/T%C3%A0i_li%E1%BB%87u_%C4%91%E1%BA%B7c_t%E1%BA%A3_y%C3%AAu_c%E1%BA%A7u_ph%E1%BA%A7n_m%E1%BB%81m_b%C3%A1n_h%C3%A0ng_theo_chu%E1%BA%A9n_IEEE
 Sơ đồ lớp(Class Diagram)
 Thiết kế kiến trúc	
 Thiết kế dữ liệu
